@@ -5,7 +5,7 @@
 [![Issues](https://img.shields.io/github/issues/BuiltByAmos-1801/BuiltByAmosOfficial)](https://github.com/BuiltByAmos-1801/BuiltByAmosOfficial/issues)
 [![Stars](https://img.shields.io/github/stars/BuiltByAmos-1801/BuiltByAmosOfficial?style=social)](https://github.com/BuiltByAmos-1801/BuiltByAmosOfficial/stargazers)
 
-> ðŸ’» Professional, modern, and easy-to-follow repository by **Amos Anand** â€” the official collection of open-source projects from **BuiltByAmos**.
+> ðŸ’» Professional, modern, and easy-to-follow repository by **Amos Anand** the official collection of open-source projects from **BuiltByAmos**.
 
 ---
 
@@ -37,35 +37,35 @@ A hub of **production-ready tools, projects, and templates** by *Amos Anand*, cr
 
 ---
 
-## ðŸ§  About
+##   About
 
 **BuiltByAmosOfficial** is a collection of high-quality, developer-friendly repositories created by **Amos Anand**.  
 It includes **web apps, UI/UX projects, reusable components**, and **developer tools** â€” all designed for performance, simplicity, and scalability.
 
 ---
 
-## ðŸŽ¥ Demo
+## Demo
 
-- ðŸŒ Live demo: [https://builtbyamos.vercel.app](https://builtbyamos.vercel.app)
-- ðŸ–¼ï¸ Preview:
+- Live demo: [https://builtbyamos.vercel.app](https://builtbyamos.vercel.app)
+- Preview:
   <p align="center">
     <img alt="demo" src="assets/demo.gif" width="720" />
   </p>
 
 ---
 
-## âš™ï¸ Features
+## Features
 
-- âœ… Clean, modular, and reusable code
-- âš¡ Lightning-fast performance
-- ðŸ’… Professional UI/UX structure
-- ðŸ” Secure configurations
-- ðŸš€ CI/CD ready (GitHub Actions)
-- ðŸ§  Built with developer experience in mind
+- Clean, modular, and reusable code
+- Lightning-fast performance
+- Professional UI/UX structure
+- Secure configurations
+- CI/CD ready (GitHub Actions)
+- Built with developer experience in mind
 
 ---
 
-## ðŸ§© Tech Stack
+## Tech Stack
 
 This project uses:
 - **Next.js / React**
@@ -77,13 +77,14 @@ This project uses:
 
 ---
 
-## ðŸ› ï¸ Getting Started
+## Getting Started
 
 ### Prerequisites
 Make sure you have:
-- Node.js â‰¥ 18  
-- npm â‰¥ 9 or yarn â‰¥ 1.22  
+- Node.js ≥ 18  
+- npm ≥ 9 or yarn ≥ 1.22  
 - Git installed
+
 
 ### Installation
 ```bash

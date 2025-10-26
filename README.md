@@ -5,7 +5,7 @@
 [![Issues](https://img.shields.io/github/issues/BuiltByAmos-1801/BuiltByAmosOfficial)](https://github.com/BuiltByAmos-1801/BuiltByAmosOfficial/issues)
 [![Stars](https://img.shields.io/github/stars/BuiltByAmos-1801/BuiltByAmosOfficial?style=social)](https://github.com/BuiltByAmos-1801/BuiltByAmosOfficial/stargazers)
 
-> ðŸ’» Professional, modern, and easy-to-follow repository by **Amos Anand** the official collection of open-source projects from **BuiltByAmos**.
+» Professional, modern, and easy-to-follow repository by **Amos Anand** the official collection of open-source projects from **BuiltByAmos**.
 
 ---
 
@@ -40,7 +40,7 @@ A hub of **production-ready tools, projects, and templates** by *Amos Anand*, cr
 ##   About
 
 **BuiltByAmosOfficial** is a collection of high-quality, developer-friendly repositories created by **Amos Anand**.  
-It includes **web apps, UI/UX projects, reusable components**, and **developer tools** â€” all designed for performance, simplicity, and scalability.
+It includes **web apps, UI/UX projects, reusable components**, and **developer tools** all designed for performance, simplicity, and scalability.
 
 ---
 
@@ -115,7 +115,7 @@ npm test
 
 ---
 
-## ðŸ’» Usage
+## Usage
 
 Example:
 ```js
@@ -129,7 +129,7 @@ app.start()
 
 ---
 
-## âš™ï¸ Configuration
+## Configuration
 
 Example `.env` setup:
 ```
@@ -142,7 +142,7 @@ NEXT_PUBLIC_API_URL=https://api.builtbyamos.com
 
 ---
 
-## ðŸ¤ Contributing
+## Contributing
 
 Contributions are welcome!  
 
@@ -156,7 +156,7 @@ Check out the [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
 
 ---
 
-## ðŸ§­ Roadmap
+## Roadmap
 
 - [ ] Add AI-powered code snippets  
 - [ ] Include UI component library  
@@ -166,29 +166,29 @@ Check out the [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
 
 ---
 
-## ðŸ“œ License
+## License
 
-This project is licensed under the **MIT License** â€” see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the **MIT License** see the [LICENSE](./LICENSE) file for details.
 
 ---
 
-## ðŸ“¬ Contact
+## Contact
 
 **Amos Anand**  
-ðŸ“§ Email: builtbyiamos@gmail.com  
-ðŸŒ Website: [https://builtbyamos.vercel.app](https://builtbyamos.vercel.app)  
-ðŸ™ GitHub: [BuiltByAmos-1801](https://github.com/BuiltByAmos-1801)  
+Email: builtbyiamos@gmail.com  
+Website: [https://builtbyamos.vercel.app](https://builtbyamos.vercel.app)  
+GitHub: [BuiltByAmos-1801](https://github.com/BuiltByAmos-1801)  
 
 ---
 
-## â¤ï¸ Acknowledgements
+## Acknowledgements
 
 Big thanks to:
 - [Shields.io](https://shields.io) â€” for badges  
 - [Heroicons](https://heroicons.com) â€” for icons  
-- [Choose a License](https://choosealicense.com) â€” for license help  
+- [Choose a License](https://choosealicense.com) for license help  
 - Open Source Community ðŸ™Œ
 
 ---
 
-> Made with â¤ï¸ by **Amos Anand** | [BuiltByAmos](https://github.com/BuiltByAmos-1801)
+> Made with **BuiltByAmos** by **Amos Anand** | [BuiltByAmos](https://github.com/BuiltByAmos-1801)

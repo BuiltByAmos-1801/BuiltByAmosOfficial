@@ -18,7 +18,7 @@ A hub of **production-ready tools, projects, and templates** by *Amos Anand*, cr
 
 ---
 
-## ðŸ“š Table of Contents
+## Table of Contents
 - [About](#about)
 - [Demo](#demo)
 - [Features](#features)

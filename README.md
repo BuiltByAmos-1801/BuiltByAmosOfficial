@@ -11,7 +11,7 @@
 
 <!-- HERO -->
 <p align="center">
-  <img alt="BuiltByAmosOfficial" src="assets/hero.png" width="800" />
+  <img alt="BuiltByAmosOfficial" src="images/author.png" width="800" />
 </p>
 
 A hub of **production-ready tools, projects, and templates** by *Amos Anand*, crafted to help developers build faster, design better, and ship smarter.
